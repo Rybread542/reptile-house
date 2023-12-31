@@ -4,6 +4,10 @@
     padding:0;
 }
 
+html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 body{
     background-color: rgb(3, 7, 0);
     background-image: url(hero3.png);
@@ -193,6 +197,7 @@ main {
 
 .bio-desc {
     flex-grow: 2;
+    line-height: 1.3em;
 }
 
 .video-container {
